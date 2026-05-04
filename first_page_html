@@ -12,7 +12,7 @@
 <h2> On peut créer jusqu'à six niveaux de titres en HTML </h2>
 <p> Et voici un autre paragraphe </p>
 <a href="http://www.wildcodeschool.com"> cliquez ici </a>
-<img src="mon-image.jpg" alt="Mon image">
+<img src="mon-image" alt="Mon image">
 </body> 
 </html>
 
